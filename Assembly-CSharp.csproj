@@ -63,10 +63,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Ball.cs" />
-    <Compile Include="Assets\Brick.cs" />
-    <Compile Include="Assets\Paddle.cs" />
-    <Compile Include="Assets\StartText.cs" />
+    <Compile Include="Assets\Resources\Scripts\Ball.cs" />
+    <Compile Include="Assets\Resources\Scripts\BoundsController.cs" />
+    <Compile Include="Assets\Resources\Scripts\Brick.cs" />
+    <Compile Include="Assets\Resources\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Resources\Scripts\GameOver.cs" />
+    <Compile Include="Assets\Resources\Scripts\Paddle.cs" />
+    <Compile Include="Assets\Resources\Scripts\StartText.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

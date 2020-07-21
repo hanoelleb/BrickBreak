@@ -98,6 +98,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: breakEffect
       objectReference: {fileID: 0}
+    - target: {fileID: 3919325799532641770, guid: ae890da24552d8049a576f19f4dca1b4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 63dca5b4d7371144e953de6fa7a268a9, type: 2}
+    - target: {fileID: 3919325799532641770, guid: ae890da24552d8049a576f19f4dca1b4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 63dca5b4d7371144e953de6fa7a268a9, type: 2}
     - target: {fileID: 3919325799532641771, guid: ae890da24552d8049a576f19f4dca1b4,
         type: 3}
       propertyPath: EmissionModule.m_Bursts.Array.size

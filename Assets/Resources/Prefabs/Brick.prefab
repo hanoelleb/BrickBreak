@@ -125,6 +125,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   particleEffect: {fileID: 2852763742320507736, guid: cecb09501b11e554f91991b5738abb7e,
     type: 3}
+  gm: {fileID: 0}
+  destroyNoise: {fileID: 2573348343844332201, guid: 2838f9d0ca959d34dbb574c3fc793ce0,
+    type: 3}
 --- !u!50 &6419155291079345663
 Rigidbody2D:
   serializedVersion: 4
