@@ -64,7 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Ball.cs" />
+    <Compile Include="Assets\Brick.cs" />
     <Compile Include="Assets\Paddle.cs" />
+    <Compile Include="Assets\StartText.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
